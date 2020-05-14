@@ -1,0 +1,7 @@
+setup.py
+surgewarnings/__init__.py
+surgewarnings.egg-info/PKG-INFO
+surgewarnings.egg-info/SOURCES.txt
+surgewarnings.egg-info/dependency_links.txt
+surgewarnings.egg-info/not-zip-safe
+surgewarnings.egg-info/top_level.txt

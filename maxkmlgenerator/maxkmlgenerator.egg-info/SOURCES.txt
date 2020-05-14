@@ -1,0 +1,7 @@
+setup.py
+maxkmlgenerator/__init__.py
+maxkmlgenerator.egg-info/PKG-INFO
+maxkmlgenerator.egg-info/SOURCES.txt
+maxkmlgenerator.egg-info/dependency_links.txt
+maxkmlgenerator.egg-info/not-zip-safe
+maxkmlgenerator.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+setup.py
+adpy/__init__.py
+adpy.egg-info/PKG-INFO
+adpy.egg-info/SOURCES.txt
+adpy.egg-info/dependency_links.txt
+adpy.egg-info/not-zip-safe
+adpy.egg-info/top_level.txt
